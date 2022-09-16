@@ -1,0 +1,85 @@
+# EXTM3U
+# EXTINF: -1,TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+# EXTINF: -2,ATV 
+
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+# EXTINF: -3,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+# EXTINF: -4,CARTOOM NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+# EXTINF: -5,Panamericana tv
+
+https://stream-03.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnLxEuh15B8q3uWuKmgfLvUdFCUUxfXReuv0jOGmi2IE)/dm/3/x774s7s/s/live-0.m3u8#cell=lsv4
+
+# EXTINF: -6,Latina tv 
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/10.ts
+
+# EXTINF: -7,willax
+https://stream-11.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqOUYH2-c5gNhJDr8TO3CN63x6WgE6MeXuP-6-fzmG1b)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lcore
+
+# EXTINF: -8,vnp vision
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w370767285.m3u8
+
+# EXTINF: -9, vision tv
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w862550862.m3u8
+
+# EXTINF: -10, SONY
+http://23.148.145.49:9001/televall2022/460_.m3u8?token=ZQXV3AJao8FaAAyy5MiJWQ&expires=1663293405
+
+# EXTINF: -11, TNT SERIES
+http://23.148.145.49:9001/televall2022/528_.m3u8?token=mZNuhZfVoBqzXlWfLQdrsg&expires=1663293690
+
+# EXTINF: -12, TELEMUNDO INTERNACIONAL
+http://23.148.145.49:9001/televall2022/361_.m3u8?token=B7IOXlPgKhwJYlJX8WJLjg&expires=1663293887
+
+# EXTINF: -13, AE
+http://23.148.145.49:9001/televall2022/520_.m3u8?token=jkDCsIFh7kpcO-8cmNzq6w&expires=1663294009
+
+# EXTINF: -14, AE
+http://23.148.145.49:9001/televall2022/529_.m3u8?token=uIBq-yZPOyHRf1Omb-MPLg&expires=1663294211
+
+# EXTINF: -15, WB TV
+http://23.148.145.49:9001/televall2022/530_.m3u8?token=A9QJpS11wYQNutcrfqfqHQ&expires=1663294319
+
+# EXTINF: -16, PARAMOT CHANEL
+http://23.148.145.49:9001/televall2022/542_.m3u8?token=MCoczZxfi8MmGcLq-7rAfg&expires=1663294472
+
+# EXTINF: -17, NATIONAL
+http://23.148.145.49:9001/televall2022/408_.m3u8?token=0RQ-KILcpamufvHiTOocQg&expires=1663294665
+# EXTINF: -18,SONY CHANEL
+http://23.148.145.49:9001/televall2022/460_.m3u8?token=B1A-KcMOd5w1HAE5UrrwlQ&expires=1663294762
+# EXTINF: -19,SYFY
+http://23.148.145.49:9001/televall2022/547_.m3u8?token=EJuE38fzmfAmE1TYEISqWQ&expires=1663294920
+# EXTINF: -20,HBO POP
+
+http://23.148.145.49:9001/televall2022/717_.m3u8?token=K0aVBKn9EIFx-yFFff1shQ&expires=1663295087
+
+# EXTINF: -21,STAR CHANEL
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CusEAKJekJNvzpQ8lAzIhq6q8Hqnj1zKcMY8rBjBwoC73RNH-lg9yBInYAaWy-IoWB3W7XYqH3pTuTs3tK-3JPs1kiIBYCsoMDYcunr1k_8xTCLgmEVbLZkePx2ht3Zlp3Fm1iwtFsdK3-L9-7uWZiexKh13qqxE8JuRuo3-UmHRw6QDmhP7tbVKqHbpNJOXtmarH2hDgcr7PfxqpWGCvzxz0Gym9fAjsLIDCek5LC6lBFNpAE4sssd4IYvh9fmvc4hlrZQQUjJZ-QC-pLxcBzKLfgpG3JrjJpdteaQp1gObscty94gbSlYTJ7EfloM9TctaRLq1dMw48MJYRUZTgKuRFh4b7msyVjwoVYsIwewB5h42wc53rJqYvYG5ppMzAwM3IfrouNh6uf0mKyDlPmn1pj_sru4ap-jMvQPchrX28HXO1XB2GHZZ3bjOusUTCEll7BQNgkvrfQF7BSP08uZLZRDxEp_RXV_6UbNvmfCVdnHORbJFZEtLUwGmqO4Y3wiuGdk24MksDxaRJCdV9ZM6XLKx3g9GnfIRNePH7pWLzwS7_xMPK4yhXYayYRpzP2uT-VFx1JFUQ_VQ20HOPazuzUUEg1lRF8s6fE1bvPVKJrkMfYIsYRlrWNmuMN6zOepkKSzyz5pPj68UNVy9rSVYQJQRO7KjWHRA97Uarvr4MDebAp6CkQu5AZD7Ev5ZAkvVQgYfRb3-aHA4p_Xj_RtFo5WNrfSb9x5pC6JC1VRXU_XP-KPhmQ-bvIW6xb4lGl78FWx-h0ZA20JiGMru8cCk-XfBblaOIsrMdTGB1an7spajpXfcwbxq3T2MOhoM9sz2Te8jwX4tYXY8IAEqCWV1LXdlc3QtMjDYBA.m3u8
+
+# EXTINF: -22,HBO PLUS
+http://23.148.145.49:9001/televall2022/560_.m3u8?token=CST9FlEimZYAGJ0kaeDnIA&expires=1663295354
+
+# EXTINF: -23,TNT HD
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvsEpZcFfTMdg_rEjzQaD8ZANZNkhnIxJHdlMZR5DPBWdawKTuc8EbkwhxDo_xJ_Xmi9kwfZpgGMFskf2Zb65Zm7fPt_ycOgXZLhy7jfKWVDKND0I0709eOkDOHigNUTL8VWbFveYplmJDA7J29pmcyN9nBlzXcp_A05buctm5_O-mXIZR7xWdaiXb5BTydd9UMjgiYzLS9_u5v9L6l2DiQswauIHuR25JG4z_ALda5o87EXx4JPVK-IcBKSr2xuia2r-2rusV4CxM2n0kPWM0ybECxAQjqIl6pwnEnjKPucDbdB2TVu82wrS90Hn4Mlr0rn_NyJhIagau1rWmLQiK2SWWUH6lKIk_UsZ1wipEMGHeFfTPHaYxbew-074YHqgceVNJAVYYBow96DqWzDueflrumSI9-Qu4azAAW2fX9QfUUjgu64r53hKR4TVh4U74VkIwW_iKA1UQgZ7e0YOIikn_idVk9jaXg-n1jvmE2F7XujVWaKM9czNTmld6U0_58SMN27FE87oH7VvdicTPgRh_I9ibIKL2RrtdXcDeWyvIfaMlF9Fwk1b-f-2zIyd-em4ppnCwRz46V9Ro0pgYpZQKiVakCCyMHSwttJ3nHbKu6Y8QpRWTTRXNhBWL0BRYmlp_C316_x9iHtHn1e_7WFEeGo1xckD48-oD1vsbCvdlzpE6zktt0nrcuyiMP7-kwrjxDDoBwtfvZHRvMTeay5I9S-yaJHcKfwcidDJuQkaGNKcNm6rlO-BoHsoftHyLAq-E9U837LoJAZeh7SkIBFFxng8cG4GUZGCpt4YblzfZfg8wFcyCWMU3IOJ-NsJmh9RqkJ2_sR85WLXiEaDEBIztsNhGMIM3tKSiABKglldS13ZXN0LTIw2AQ.m3u8
+
+# EXTINF: -24,CINEMAX
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvgEwGntnk24MFmZF_lxXsT7abUHM0R0lyPePnAshMZbgLJ7-Qw7NmqkQgZauoJg0kok3UoRZs9CQWR5HCRJQgCSF2XvZa1a702hsML8l902abyi62ZRGYXaGaNUK29T8hj-ilsNmS58N9fA6LuIYi42nljYW7pY45qZpnCnKwa9IK0IQxDGZVQL_jVhdgKt26plLVwE-8zdZGTx7XzT0taQSt2ImnZfftIljR6exywY3-gxeADesbBF4odCSL3gX10fZE-1092nQ3LdY0RLm1BuNRRjDhoqFNUWm0zD7q_PUiQ6I_RjPpOxeYUulIPe_M0S9JiRN37cz3-iaoWqSSaE35i7diTpUcyevLvCVjspQsLWJVc5zBrIUioE6Z3dROZpC3_rw7s-IlMRsSraYGsonSZ_iwpQRPOUTjA62hx64vwNdbgHiEXN8fNhu0VRb6k-XtKXvNcE6OTHWOF4NhGvxYuLHF1VQ_6uZB5aAy8dknppxP-R-hfPSdUPBUo6l_HVhawxrFOpUX3HrCvXN55d7BKejSo_UU-SN8xWJfja7RT8rPIM_wzR8QQsI1Y1P0nwKl9zRn60tawZ6P6WogTGBv7oy7r1euo0gtXYU_szWwPo4yVUczGGvbVmFrXeL8NIiMbI-b3w1xiOm41x38R4VZWVodA6BcRQkGjc-2yySRgKgYNYKNlrAjgtDUj9gs53sVYLSv1Qzdyb3Y3RZ4N-ohaPdwXksuONVYQs1HwWrJvVawqa7Y0wE3HujmXyT57sja0hCijQWhQQGT6irwaG12KoMZIKOgsaVAPjfAWd9G-9lGxBWegPmvFE79dmuueghfnHJUUSBiwaDD1FtpgyA66dHzQybiABKglldS13ZXN0LTIw2AQ.m3u8
+
+# EXTINF: -25,CINECANAL
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvgEwGntnk24MFmZF_lxXsT7abUHM0R0lyPePnAshMZbgLJ7-Qw7NmqkQgZauoJg0kok3UoRZs9CQWR5HCRJQgCSF2XvZa1a702hsML8l902abyi62ZRGYXaGaNUK29T8hj-ilsNmS58N9fA6LuIYi42nljYW7pY45qZpnCnKwa9IK0IQxDGZVQL_jVhdgKt26plLVwE-8zdZGTx7XzT0taQSt2ImnZfftIljR6exywY3-gxeADesbBF4odCSL3gX10fZE-1092nQ3LdY0RLm1BuNRRjDhoqFNUWm0zD7q_PUiQ6I_RjPpOxeYUulIPe_M0S9JiRN37cz3-iaoWqSSaE35i7diTpUcyevLvCVjspQsLWJVc5zBrIUioE6Z3dROZpC3_rw7s-IlMRsSraYGsonSZ_iwpQRPOUTjA62hx64vwNdbgHiEXN8fNhu0VRb6k-XtKXvNcE6OTHWOF4NhGvxYuLHF1VQ_6uZB5aAy8dknppxP-R-hfPSdUPBUo6l_HVhawxrFOpUX3HrCvXN55d7BKejSo_UU-SN8xWJfja7RT8rPIM_wzR8QQsI1Y1P0nwKl9zRn60tawZ6P6WogTGBv7oy7r1euo0gtXYU_szWwPo4yVUczGGvbVmFrXeL8NIiMbI-b3w1xiOm41x38R4VZWVodA6BcRQkGjc-2yySRgKgYNYKNlrAjgtDUj9gs53sVYLSv1Qzdyb3Y3RZ4N-ohaPdwXksuONVYQs1HwWrJvVawqa7Y0wE3HujmXyT57sja0hCijQWhQQGT6irwaG12KoMZIKOgsaVAPjfAWd9G-9lGxBWegPmvFE79dmuueghfnHJUUSBiwaDD1FtpgyA66dHzQybiABKglldS13ZXN0LTIw2AQ.m3u8
+
+# EXTINF: -26,AXN
+
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvIEcKLlWwfRiLOy_A2qr3NtPGnL7cCwVOE1hi86kO4VveA16YCPMT0cgWS7sXnVAkjxQDeZk6rDLvEkzUv2295oEkzF7h-L-nFHUuW7qeaAbGiOa2UQjRO9GV2vol5xWaKuFdPCUecGgrBtYWa8O3d143tQsau9t7SedMQYw30KD4HWiFtYj8VJmxOEBID6ItQtWQvaLkUAjMNoywVeIGWvcJMuV2tBWuUzOvJGJKHjEEYodrO8om7rNZ-6QcrG01GsDZyjWPUnXCeM4THtDYAtmXFUtH-lpZc20RbHtm9S3bg79A2RKqIR3kuDWgu5FefxLRVzKms_BEoxVzyj146-zIGxR1t9ijrzmG0aYBLoZzWdSfiO7Iql3YyLyhTgPiLiSzELWExOIqHy1j9_wlJkamLRsxaXK_-yLrtARkajQtd4UENvnaYsgIbTofG974ygrYdeNII0YVGzDE1ZJrGtmhcOyVtNwTbpBpBLlS8KTWHQIlj2CziAyindDb3U7Pno7lWBY63kGxZZWn-iorkUm2vbeZM2doT43gviBjXbLXOhZz8qy7W3SeT9KOsr8NeEnm38nr5RT084dgdY4TdN1HwLktMGH-P1eLzCJDShjrojbhY02RVYgE54qGMAA29wde0NmZ3uNlGFNq2wo_HnMBRCGEW8C8YYTOTONdyGgbOAuU6z5q5IsHbnzM21uS0vhORr9KK_YzciW50_h8AoOfOjIpFdNcbviy-k_hN-aVYttrXiKt7lTBbqct2xnslQsc4hVQNOvNAD_h5kkJ3K4_QtaFzJzHGUXTg0JxJq_qoP-WPOrHcGH78kIKxiyBA-x-YaDOO__TqD8jIHTHhA8SABKglldS13ZXN0LTIw2AQ.m3u8
+
+# EXTINF: -27,CANAL IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+
+
